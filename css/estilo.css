@@ -1,0 +1,128 @@
+.general{
+    background-color: purple;
+    border-radius: 1000px;
+    width: 500px;
+    height: 500px;
+}
+.gusano{
+    width: 500px;
+    height: 500px;
+    left: 100px;
+
+}
+
+#circulo1{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: relative;
+    left:100px;
+    border-radius: 40px;
+    top: 100px;
+}
+#circulo2{
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    position: relative;
+    left:110px;
+    border-radius: 40px;
+    top: 80px;
+}
+#circulo3{
+    width: 60px;
+    height: 60px;
+    background-color: lawngreen;
+    position: relative;
+    left:120px;
+    border-radius: 40px;
+    top: 60px;
+}
+#circulo4{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    position: relative;
+    left:130px;
+    border-radius: 40px;
+    top: 40px;
+}
+#circulo5{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+    position: relative;
+    left:140px;
+    border-radius: 40px;
+    top: 20px;
+}
+#circulo6{
+    width: 60px;
+    height: 60px;
+    background-color: whitesmoke;
+    position: relative;
+    left:150px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circulo7{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    position: relative;
+    left:250px;
+    border-radius: 40px;
+    top: -260px;
+}
+#circulo8{
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    position: relative;
+    left:260px;
+    border-radius: 40px;
+    top: -280px;
+}
+#circulo9{
+    width: 60px;
+    height: 60px;
+    background-color: lawngreen;
+    position: relative;
+    left:270px;
+    border-radius: 40px;
+    top: -300px;
+}
+#circulo10{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    position: relative;
+    left:280px;
+    border-radius: 40px;
+    top: -320px;
+}
+#circulo11{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+    position: relative;
+    left:290px;
+    border-radius: 40px;
+    top: -340px;
+}
+#circulo12{
+    width: 60px;
+    height: 60px;
+    background-color: whitesmoke;
+    position: relative;
+    left:300px;
+    border-radius: 40px;
+    top: -360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
